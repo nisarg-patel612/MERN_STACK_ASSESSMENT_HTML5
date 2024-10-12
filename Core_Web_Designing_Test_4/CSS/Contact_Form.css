@@ -1,0 +1,82 @@
+/* main-container */
+.main-container {
+    background: #acd7e6;
+    width: 62%;
+    height: auto;
+    padding: 20px;
+    margin: 0 auto;
+}
+.contact-container {
+    margin-top: -30px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+/* address-container css */
+.form-container {
+    background: #f7f9fa;
+    padding: 2px 15px 30px 24px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+h4 {
+    margin-bottom: -2px;
+    font-family: 'FontAwesome';
+    font-weight: 400;
+    font-size: 17px;
+}
+.address {
+    display: flex;
+    gap: 76px;
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-bottom: -32px;
+}
+/* im-container css */
+.input-main-container {
+    padding: 20px;
+    background: #f7f9fa;
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+}
+input[type="text"], input[type="email"], input[type="tel"], textarea {
+    padding: 8px;
+    font-size: 13px;
+    font-family: sans-serif;
+    border: 1px solid #e6eaed;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.input-container {
+    margin: 0px 0px 14px;
+}
+.email-mob-container {
+    margin-bottom: 14px;
+}
+textarea {
+    width: 100%;
+}
+.text-area-container {
+    margin-bottom: 10px;
+}
+button.send {
+    background: #db3545;
+    color: #f2edf5;
+    padding: 6px;
+    border-radius: 4px;
+    width: 61px;
+}
+/* google map container css */
+.ftlg-icon {
+    font-size: 26px;
+    margin-top: 3px;
+}
+i.fa.fa-facebook-official {
+    color: #3a5a99;
+}
+i.fa.fa-twitter-square {
+    color: #39cafa;
+}
+i.fa.fa-linkedin-square {
+    color: #3d98bf;
+}
